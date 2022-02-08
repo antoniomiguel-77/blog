@@ -20,10 +20,6 @@ class pageController extends Controller
 
         return view('pages.about');
     }
-    public function services(){
-
-        return view('pages.services');
-    }
     public function create(){
         if(Auth::check()){
               $action = "postar";

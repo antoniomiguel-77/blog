@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 /**Paginas View */
 Route::get('/',[pageController::class,'index']);
 Route::get('/about',[pageController::class,'about']);
-Route::get('/services',[pageController::class,'services']);
+
 
 /**Formularios View */
 Route::get('/usuario.novo',[userController::class,'create']);

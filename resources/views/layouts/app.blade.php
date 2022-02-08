@@ -24,7 +24,7 @@
                     <a class="nav-link" aria-current="page" href="/">Página Inicial</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Sobre</a>
+                    <a class="nav-link" href="about">Sobre</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link" href="services"  >
